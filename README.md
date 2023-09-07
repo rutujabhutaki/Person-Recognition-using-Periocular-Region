@@ -16,4 +16,6 @@ The periocular region refers to the area around the eye that may include eyebrow
 
 OUTPUT:
 
-![2](https://github.com/rutujabhutaki/Person-Recognition-using-Periocular-Region/assets/97386325/9827e99c-5a3c-464b-82cb-6f2b563ed064)![3](https://github.com/rutujabhutaki/Person-Recognition-using-Periocular-Region/assets/97386325/c6e15f0a-2995-4170-9bd7-f44249486d9e)![WhatsApp Image 2023-05-04 at 19 49 39](https://github.com/rutujabhutaki/Person-Recognition-using-Periocular-Region/assets/97386325/1508470b-1638-4a7c-a1ff-6287f1d1211b)
+![2](https://github.com/rutujabhutaki/Person-Recognition-using-Periocular-Region/assets/97386325/9827e99c-5a3c-464b-82cb-6f2b563ed064)
+![3](https://github.com/rutujabhutaki/Person-Recognition-using-Periocular-Region/assets/97386325/c6e15f0a-2995-4170-9bd7-f44249486d9e)
+![WhatsApp Image 2023-05-04 at 19 49 39](https://github.com/rutujabhutaki/Person-Recognition-using-Periocular-Region/assets/97386325/1508470b-1638-4a7c-a1ff-6287f1d1211b)
