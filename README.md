@@ -10,7 +10,7 @@ The periocular region refers to the area around the eye that may include eyebrow
 
 4.Create empty folder with respective subject folder names for all subjects consisting of two other empty folders called left and right respectively for each and every subject. This must be added to clahe set and roi set.
 
-6.Then open the UI.ipynb in the google colab and run similar to the previous case.
+5.Then open the UI.ipynb in the google colab and run similar to the previous case.
 
 
 ![Screenshot_2023-09-07-16-53-05-70_e2d5b3f32b79de1d45acd1fad96fbb0f](https://github.com/rutujabhutaki/Person-Recognition-using-Periocular-Region/assets/97386325/2cdd0db0-6736-48a9-8e28-c8c8c73f540c)
