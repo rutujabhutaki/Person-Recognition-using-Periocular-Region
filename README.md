@@ -2,7 +2,7 @@
 
 The periocular region refers to the area around the eye that may include eyebrows, eyelashes, eyelids, shape of the eye, height, texture of the skin, eye width, etc. It is considered that only these features are accessible due to occlusions in the input image. The model aims to work with and provide optimum results with the minimal feature information available and perform recognition.
 
-1.Download the Code and uplopad to google drive.
+1.Download the Code and upload to google drive.
 
 2.Add photos of each subject in respective folders and add it to trainset and similarly validation photos of each subject in their respective folders in the valset.
 
